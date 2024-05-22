@@ -2,22 +2,23 @@
 🛒🛒This is a clone of popular e-commmerce website Amazon. I have created it with HTML and CSS in frontend
 
 IMAGES
-![box8_logo](https://github.com/akhils0810/Amazon-Clone/assets/138143460/0f53bba8-f1b1-4ebf-8fa4-7bf420d5ab8b)
+![amazon_logo](https://github.com/akhils0810/Amazon-Clone/assets/138143460/29183a14-459e-441b-a256-82b2f9993f55)
 
-![box7_logo](https://github.com/akhils0810/Amazon-Clone/assets/138143460/e0840a02-da8b-401f-904e-cdd45da1ce4c)
+![hero_logo](https://github.com/akhils0810/Amazon-Clone/assets/138143460/85d67e74-682c-4af5-8fb0-5d713daef3bb)
 
-![box6_logo](https://github.com/akhils0810/Amazon-Clone/assets/138143460/2a227a72-4dbb-4b90-9700-8e61c24a68bc)
+![box3_logo](https://github.com/akhils0810/Amazon-Clone/assets/138143460/d5e4d855-bf02-49b4-8b0e-60479df5499e)
 
-![box5_logo](https://github.com/akhils0810/Amazon-Clone/assets/138143460/54b573b3-d575-427b-9026-16eefe5b8b0d)
+![box2_logo](https://github.com/akhils0810/Amazon-Clone/assets/138143460/3315172c-f58e-476e-b8cf-21073f6d640d)
 
-![box4_logo](https://github.com/akhils0810/Amazon-Clone/assets/138143460/801775e1-d10f-407e-b7db-54118887d5cd)
 
-![box3_logo](https://github.com/akhils0810/Amazon-Clone/assets/138143460/ce86b60a-a235-46de-9901-d483e2756fa1)
+![box1_logo](https://github.com/akhils0810/Amazon-Clone/assets/138143460/acef56d0-175b-49c8-b000-aab77dccf3bf)
 
-![box2_logo](https://github.com/akhils0810/Amazon-Clone/assets/138143460/7f112914-c985-4dd9-94dd-954bb4929e99)
+![box8_logo](https://github.com/akhils0810/Amazon-Clone/assets/138143460/7b4aff2b-a1e7-49a3-a4fc-c560d5d81bbd)
 
-![box1_logo](https://github.com/akhils0810/Amazon-Clone/assets/138143460/ccf2b87f-e45c-42f1-8ba0-4e8b3772a36e)
+![box7_logo](https://github.com/akhils0810/Amazon-Clone/assets/138143460/2eb44a4f-ef48-4679-b922-3aaf991c0190)
 
-![amazon_logo](https://github.com/akhils0810/Amazon-Clone/assets/138143460/e775b9d1-7793-4bf8-b9c3-8640c8530274)
+![box6_logo](https://github.com/akhils0810/Amazon-Clone/assets/138143460/de8ebc50-1d6d-4d56-bb7e-4d5a6f01e275)
 
-![hero_logo](https://github.com/akhils0810/Amazon-Clone/assets/138143460/757318ba-fb5f-4e9f-b5d5-2c28550a4a4a)
+![box5_logo](https://github.com/akhils0810/Amazon-Clone/assets/138143460/625955a5-f030-4339-b9da-0efe62994ad8)
+
+![box4_logo](https://github.com/akhils0810/Amazon-Clone/assets/138143460/393c2d1d-247c-420e-a344-2371d630b91c)
